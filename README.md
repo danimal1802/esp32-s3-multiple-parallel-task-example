@@ -1,4 +1,4 @@
-2025 01 09 - Daniel Mitchell - https://www.iotcloudlabs.com
+2025 01 09 - Daniel Mitchell - https://iotcloudlabs.com
 
 This sketch and supporting files 
 
